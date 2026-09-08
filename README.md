@@ -1,40 +1,70 @@
-<!-- HEADER WAVE ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=220&section=header&text=Hi%20there,%20I'm%20CodeXero%20👋&fontSize=42&fontColor=fff&animation=twinkling" width="100%" alt="Header Banner"/>
-  
-  <!-- DYNAMIC TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Specialist;Passionate+About+Clean+Architecture;TypeScript+%26+Database+Enthusiast" alt="Typing SVG" />
-  </a>
-  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:123B5D,100:19A7A8&height=230&section=header&text=CodeXero&fontSize=64&fontColor=F8FAFC&fontAlignY=42&animation=fadeIn" width="100%" alt="CodeXero" />
 
-  <!-- SOCIAL BADGES -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <h1>Thoughtful software for the web.</h1>
+  <p><strong>Full-stack engineer · TypeScript builder · Curious problem solver</strong></p>
+  <p>I turn complex ideas into calm, capable digital products with clean interfaces and dependable systems underneath.</p>
+
+  <a href="mailto:codexero13@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-19A7A8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email CodeXero" /></a>
 </div>
 
-<br/>
+<br />
 
-<!-- GITHUB TROPHIES -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ What I care about</h3>
+      <p>Useful details, honest abstractions, and experiences that feel effortless to the people using them.</p>
+      <p>My sweet spot is the space where product thinking meets engineering craft: shaping the idea, finding the simplest model, and making it real.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ What I build with</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,mongodb,docker&perline=4" alt="TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, MongoDB, Docker" />
+      </p>
+      <p><sub>Interfaces · APIs · data models · scalable web platforms</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## A little more about the work
+
+```ts
+const approach = [
+  "Start with the person, not the framework",
+  "Keep the architecture clear enough to change",
+  "Make the happy path feel surprisingly simple",
+];
+```
+
+### Currently exploring
+
+<table>
+  <tr>
+    <td>01</td>
+    <td><strong>Product-minded engineering</strong><br />Building focused experiences that solve a real problem before they add more surface area.</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td><strong>Scalable foundations</strong><br />Designing APIs, services, and data flows that stay understandable as the product grows.</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td><strong>Quietly excellent UX</strong><br />Sweating the small interactions that make software feel considered and human.</td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codexero13-oss&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <p><strong>Have a thoughtful problem worth solving?</strong></p>
+  <a href="mailto:codexero13@gmail.com">Start a conversation →</a>
 </div>
 
----
+<br />
 
-### ⚡ About Me
-
-```javascript
-const developer = {
-  name: "CodeXero",
-  role: "Full-Stack Engineer",
-  code: ["TypeScript", "JavaScript"],
-  frontend: ["Next.js", "React.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  databases: ["PostgreSQL", "MongoDB"],
-  tools: ["Postman", "Git", "Docker", "VS Code"],
-  currentFocus: "Building scalable web platforms & microservices",
-};
+<div align="center">
+  <sub>Built with curiosity, TypeScript, and an unreasonable appreciation for good spacing.</sub>
+</div>
